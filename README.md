@@ -1,0 +1,2 @@
+# anime
+just another repository
